@@ -15,3 +15,11 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+/bin/
+
+hs_err_pid*
+.settings/
+*.launch
+.metadata
+.classpath
+.project
